@@ -1,0 +1,272 @@
+========== HEADER ==========
+.nav__logo
+Parth Gohil
+
+.nav__link
+Home - Skills - Qualification - Services - Projects - Contact
+
+
+========== HOME ==========
+.home__title
+Hi, I’m Parth <br>
+Python Developer <br>
+Student at Parul University <br>
+
+.home__social
+https://www.linkedin.com/in/parth-gohil-3902a7256/
+https://github.com/Parthgohil05
+https://www.hackerrank.com/profile/parthgohil0723
+
+.home__info-title
+BIOGRAPHY
+CONTACT
+SERVICES
+YEARS OF EXPERIENCE
+COMPLETED PROJECTS
+COMPANIES WORKED
+
+.home__info-description .home__info-number
+Hi, I'm Parth Gohil,Python Developer.
+Passionate about logic building and problem solving. 
+
+Amroli, Surat <br>
+parthgohil0723@email.com <br>
++91 8866725999 <br>
+
+Website Develop <br>
+Content Writing <br>
+AI Articals <br>
+
+08+
+
+24+
+
+07+
+
+
+========== SKILLS ==========
+.section__title
+Skills
+
+.section__subtitle
+My favorite skills
+
+.skills__title
+Python Developer 
+Web Designer
+
+.skills__name .skills__subtitle
+HTML
+Intermediate
+
+CSS
+Intermediate
+
+JavaScript
+Basic
+
+Python
+Intermediate
+
+Git
+Intermediate
+
+
+Django
+Intermediate
+
+Flask
+Intermediate
+
+Numpy
+Intermediate
+
+Pandas
+Intermediate
+
+Matplotlib
+Basic
+
+
+========== QUALIFICATION ==========
+.section__title
+Qualification
+
+.section__subtitle
+Experience & education
+
+.qualification__title
+Education
+Work
+
+.qualification__name .qualification__country .qualification__year
+Secondary School Certificate
+M.L.Mehta(SAYAN) - India 
+ 2020
+
+Higher Secondary School Certificate
+V.D.Galliara(KATHOR) - India
+2020 - 2022
+
+B.Tech in Computer Science
+and Engineering (CSE) - Vadodara
+Paresent
+
+Bharat Intern
+Remote
+Dec-jan
+
+Bharat Intern
+Remote
+Dec-jan
+
+========== SERVICES ==========
+.section__title
+Services
+
+.section__subtitle
+What i offer
+
+.services__title .services__description
+Web <br>
+Development
+
+Service that provides the best quality and at 
+the request of the client, with professional 
+work and customer support.
+
+Machine <br>
+Learner
+
+Python <br>
+Programmer
+
+
+========== PROJECTS ==========
+.section__title
+Projects
+
+.section__subtitle
+Most recent work
+
+
+.projects__subtitle .projects__title .projects__button
+Web
+Portfolio
+View demo
+
+AI
+Jarvis Using Gemini
+
+ML
+Movie Recommand system
+
+ML
+Salary Prediction
+
+========== TESTIMONIAL ==========
+.section__title
+Testimonial
+
+.section__subtitle
+My client saying
+
+.testimonial__description .testimonial__name .testimonial__subtitle
+“Working with Parth is to give a good 
+impression, I carry out my project at a good 
+cost, with excellent quality and attention. 
+Great service and recommended.”
+
+Klay Harris
+Client
+
+Mary Lens
+Client
+
+Anna Chel
+Client
+
+
+========== CONTACT ==========
+.section__title
+Contact Me
+
+.section__subtitle
+Get in touch
+
+.contact__title
+Talk to me
+Write me your project
+
+.contact__data-title .contact__data-info .contact__button
+Email
+parthgohil0723@email.com
+
+Whatsapp
++91 8866725999
+Write me
+
+<!-- Insert a real number plus country code -->
+https://api.whatsapp.com/send?phone=918866725999&text=Hello, more information!
+
+Instagram
+@parbhudo_08
+Write me
+
+<!-- Insert your brand name or profile -->
+https://m.me/bedimcode
+
+.contact__form-tag | placeholder
+Names
+Write your names
+
+Mail
+Write your email
+
+Project
+Write your project
+
+.contact__button
+Submit
+
+========== EMAIL JS CONTACT ==========
+
+// Check if the field has a value
+	// Add and remove color
+
+	// Show message	
+		Write all the input fields 
+
+// serviceID - templateID - #form - publicKey
+	// Show message and add color
+		Message sent 
+	
+	// Remove message after five seconds
+
+	// Send Error
+		OOPS! SOMETHING HAS FAILED...
+
+// To clear the input field
+========== FOOTER ==========
+.footer__title
+Parth gohil
+
+<p>
+Python Developer
+
+.footer__link
+Home
+Skills
+Projects
+
+.footer__social-link
+https://www.linkedin.com/in/parth-gohil-3902a7256/
+https://github.com/Parthgohil05
+https://www.hackerrank.com/profile/parthgohil0723
+
+.footer__copy
+&#169; Copyright Parthgohil. All rights reserved
+
+
+
+
